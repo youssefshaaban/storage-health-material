@@ -1,0 +1,36 @@
+c:\users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\bin\Debug\Project soft.exe.config
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\bin\Debug\Project soft.exe
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\bin\Debug\Project soft.pdb
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\Project soft.csprojResolveAssemblyReference.cache
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\Project_soft.Properties.Resources.resources
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\Project soft.csproj.GenerateResource.Cache
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\Project soft.exe
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\Project soft.pdb
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\project_soft.PL.AddProduct.resources
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\project_soft.PL.AddWorker.resources
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\project_soft.PL.DeletEmployee.resources
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\project_soft.PL.LogIn.resources
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\project_soft.PL.ManagerForm.resources
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\project_soft.PL.UpdateAndViewProduct.resources
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\project_soft.PL.WorkerForm.resources
+C:\Users\joe\documents\visual studio 2012\Projects\Project soft\Project soft\obj\Debug\project_soft.PL.SallingForm.resources
+D:\PROJECTS\Project soft\Project soft\bin\Debug\Project soft.exe.config
+D:\PROJECTS\Project soft\Project soft\bin\Debug\Project soft.exe
+D:\PROJECTS\Project soft\Project soft\bin\Debug\Project soft.pdb
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.AddProduct.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.AddWorker.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.Bill.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.DeletEmployee.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.LogIn.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.ManagerForm.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.notification.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.SallingForm.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.Transcript.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.UpdateAndViewProduct.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.PL.WorkerForm.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.Properties.Resources.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\project_soft.report.order_customer.resources
+D:\PROJECTS\Project soft\Project soft\obj\Debug\Project soft.csproj.GenerateResource.Cache
+D:\PROJECTS\Project soft\Project soft\obj\Debug\Project soft.exe
+D:\PROJECTS\Project soft\Project soft\obj\Debug\Project soft.pdb
+D:\PROJECTS\Project soft\Project soft\obj\Debug\Project soft.csprojResolveAssemblyReference.cache
