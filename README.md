@@ -1,17 +1,24 @@
-Author:yousef shaaban mohamed hassen
-======================================
+Description (Storage health material)
+=====================================
+system is responsible for selling ,buying and storing health material information
+there is two Actor in the system
+1.manager
+2.worker 
+````````````````````
+* manager has methods 
+``````````````````````
+1.Add worker
+2.deletworker
+3.show transcript (he can see all products that sold between periods)
+4.update data of worker
 
+```````````
+* worker
+`````````````
+1.selling
+2.addproduct 
+3.update information of product 
+4. make reports 
 ```````
 linkedin :https://goo.gl/WlfwhP
-```````````
-Description: system is responsible for selling ,buying and storing health material information
-there is two Actor in the system 1-manager 2-worker 
-manager has methods 
-a-Add worker    b-deletworker
-c-show transcript (he can see all products that sold between periods)
-d-update data of worker
-worker
-a-selling    b-addproduct 
-c-update information of product 
-d- make reports 
-version:1.0
+`````````
