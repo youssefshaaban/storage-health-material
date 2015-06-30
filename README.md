@@ -1,4 +1,4 @@
-Description (Storage health material)
+Description (Storage health material) Desktop Application
 =====================================
 system is responsible for selling ,buying and storing health material information
 there is two Actor in the system
@@ -22,6 +22,11 @@ there is two Actor in the system
 2. addproduct 
 3. update information of product 
 4. make reports 
+
+Tools
+=====
+C# -SQl
+
 ```````
 linkedin :https://goo.gl/WlfwhP
 `````````
